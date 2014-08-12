@@ -1,7 +1,7 @@
 Koine Query Registry
 --------------------------------------------------------------------------------
 
-Simple registry for storing the executede queries so they can be logged/debbuged
+Simple query Registry for storing queries (and params) for logging/debbuging/late executing
 
 Code information:
 
