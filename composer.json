@@ -1,5 +1,5 @@
 {
-    "name": "koine/queryregistry",
+    "name": "koine/query-registry",
     "description": "Registry to keep track of queries",
     "license": "MIT",
     "authors": [

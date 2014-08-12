@@ -12,10 +12,10 @@ Code information:
 
 Package information:
 
-[![Latest Stable Version](https://poser.pugx.org/koine/queryregistry/v/stable.svg)](https://packagist.org/packages/koine/queryregistry)
-[![Total Downloads](https://poser.pugx.org/koine/queryregistry/downloads.svg)](https://packagist.org/packages/koine/queryregistry)
-[![Latest Unstable Version](https://poser.pugx.org/koine/queryregistry/v/unstable.svg)](https://packagist.org/packages/koine/queryregistry)
-[![License](https://poser.pugx.org/koine/queryregistry/license.svg)](https://packagist.org/packages/koine/queryregistry)
+[![Latest Stable Version](https://poser.pugx.org/koine/query-registry/v/stable.svg)](https://packagist.org/packages/koine/query-registry)
+[![Total Downloads](https://poser.pugx.org/koine/query-registry/downloads.svg)](https://packagist.org/packages/koine/query-registry)
+[![Latest Unstable Version](https://poser.pugx.org/koine/query-registry/v/unstable.svg)](https://packagist.org/packages/koine/query-registry)
+[![License](https://poser.pugx.org/koine/query-registry/license.svg)](https://packagist.org/packages/koine/query-registry)
 
 ### Usage
 
@@ -49,7 +49,7 @@ Append the lib to your requirements key in your composer.json.
     // [..]
     require: {
         // append this line to your requirements
-        "koine/queryregistry": "dev-master"
+        "koine/query-registry": "dev-master"
     }
 }
 ```
