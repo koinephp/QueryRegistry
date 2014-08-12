@@ -1,0 +1,21 @@
+{
+    "name": "koine/queryregistry",
+    "description": "Registry to keep track of queries",
+    "license": "MIT",
+    "authors": [
+        {
+          "name": "Marcelo Jacobus",
+          "email": "marcelo.jacobus@gmail.com"
+        }
+    ],
+    "require" : {
+        "koine/objects" : "0.9.*"
+    },
+    "require-dev": {
+      "phpunit/PHPUnit": "*",
+      "satooshi/php-coveralls": "dev-master"
+    },
+    "autoload": {
+      "psr-0": {"Koine\\": "lib"}
+    }
+}
