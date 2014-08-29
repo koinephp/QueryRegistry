@@ -9,7 +9,7 @@
         }
     ],
     "require" : {
-        "koine/objects" : "0.9.*"
+        "koine/core" : "0.9.*"
     },
     "require-dev": {
       "phpunit/PHPUnit": "*",
