@@ -16,6 +16,7 @@ Package information:
 [![Total Downloads](https://poser.pugx.org/koine/query-registry/downloads.svg)](https://packagist.org/packages/koine/query-registry)
 [![Latest Unstable Version](https://poser.pugx.org/koine/query-registry/v/unstable.svg)](https://packagist.org/packages/koine/query-registry)
 [![License](https://poser.pugx.org/koine/query-registry/license.svg)](https://packagist.org/packages/koine/query-registry)
+[![Dependency Status](https://gemnasium.com/koinephp/QueryRegistry.png)](https://gemnasium.com/koinephp/QueryRegistry)
 
 ### Usage
 
